@@ -1,8 +1,10 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\GeneralController;
 use App\Http\Controllers\ProfileController;
-use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ProductsController;
+use App\Http\Controllers\PuntoVentaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,3 +28,12 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+// Productos
+Route::resource('productos', ProductsController::class)->except(['show','create'])->middleware(['auth', 'verified'])->names('products');
+Route::delete('productos/{id}', [ProductsController::class, 'destroy'])->name('products.destroy');
+Route::get('productos/all', [ProductsController::class,'getAll'])->name('products.all');
+// Punto de venta
+Route::get('punto-venta', [PuntoVentaController::class, 'index'])->name('punto_venta.index');
+// Acerca de nosotros
+Route::get('acerca-de-nosotros', [GeneralController::class, 'about'])->name('about.index');

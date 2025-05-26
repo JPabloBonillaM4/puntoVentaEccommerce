@@ -15,4 +15,9 @@ class GeneralController extends Controller
     {
         return view('pages.admin.index');
     }
+
+    public function about()
+    {
+        return view('pages.acerca_nosotros.index');
+    }
 }
