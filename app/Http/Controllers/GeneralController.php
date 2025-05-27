@@ -17,7 +17,8 @@ class GeneralController extends Controller
 
     public function dashboard_index()
     {
-        return view('pages.admin.index');
+        return redirect()->route('about.index');
+        // return view('pages.admin.index');
     }
 
     public function about()

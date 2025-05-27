@@ -15,7 +15,7 @@
             <!--begin::Wrapper container-->
             <div class="app-container container-fluid d-flex flex-grow-1">
                 <!--begin::Sidebar-->
-                <sidebar-component></sidebar-component>
+                {{-- <sidebar-component></sidebar-component> --}}
                 <!--end::Sidebar-->
                 <!--begin::Main-->
                 <div class="app-main flex-column flex-row-fluid" id="kt_app_main">

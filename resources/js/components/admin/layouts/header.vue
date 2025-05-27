@@ -18,7 +18,7 @@
                     <!--end::Logo image-->
                     <!--begin::Section-->
                     <div class="d-none d-md-inline">
-                        <div class="fw-bold fs-3 text-dark">Ermi</div>
+                        <div class="fw-bold fs-3 text-dark">Ermy's</div>
                         <div class="fw-semibold text-gray-500">Diseños y confecciones</div>
                     </div>
                     <!--end::Section-->

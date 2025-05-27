@@ -13,12 +13,12 @@
                          ofreciendo así un sustento a su familia y generar empleos.
                     </p>
                 </div>
-                <img src="" alt="Confecciones Ermy's" class="ermys-hero-img">
+                <img src="/images/img_1.jpg" alt="Confecciones Ermy's" class="ermys-hero-img">
             </section>
 
             <!-- Historia -->
-            <section class="ermys-section">
-                <h2>Nuestra Historia</h2>
+            <section class="ermys-section.jpg" style="color: #000;">
+                <h2 style="color: #000;">Nuestra Historia</h2>
                 <p>
                    La idea de empezar con la confección de ropa fue por una tradición familiar, en donde se acostumbraba a realizar cada paso de las prendas a mano, con el paso del tiempo fue innovando, ocupando maquinaria y creando nuevos diseños dándoles más calidad y creatividad, satisfaciendo las necesidades de sus clientes. Con el paso del tiempo el sr. Ignacio fue promocionando los diseños en otros lugares, llamando la atención de varios compradores en distintos lugares de la región, esforzándose en conseguir proveedores que otorguen lo mejor. Considerándose no los 1° mejores, pero si los mejores, queriendo dejar un sello y enseñanza de que la creatividad del ser humano es el motivo y base de la superación. La empresa “Confecciones ERMY” perteneciente al sector industrial con relación al sector textil, con giro comercial y de elaboración, por lo que consideramos que es importante para todo México, por los siguientes factores: • Fuente generadora de empleo • Genera ingresos para la economía del país • Ofrece diseños completamente artesanales. • Desarrollo comercial y de industrialización. Es por ello que la empresa Confecciones Ermy es potencial para fomentar la cultura, en este caso a través de los productos artesanales, además de ser un sector que contribuye a gran parte de la sociedad al aportar ingresos directos e indirectos..
                 </p>
@@ -61,9 +61,25 @@
             <section class="ermys-section">
                 <h2>Ubicacion de Ermy's</h2>
                 <div class="ermys-services">
-                        <h4>Calle Abasolo 40, Tercera, 75880 San Gabriel Chilac, Puebla. (Confección)
-                        Calle Reforma 54, Segunda, 75880 San Gabriel Chilac, Puebla. (Empaque y venta)</h4>
-                        <p>Giro comercial: Confección de ropa artesanal.Sector: La empresa “Confecciones ERMY” perteneciente al sector industrial con relación al sector textil, con giro comercial y de elaboración,.Números de trabajadores: 30</p>
+                    <div class="row">
+                        <div class="col-md-4 d-flex flex-column align-items-center justify-content-center h-100">
+                            <p>Giro comercial: Confección de ropa artesanal.Sector: La empresa “Confecciones ERMY” perteneciente al sector industrial con relación al sector textil, con giro comercial y de elaboración,.Números de trabajadores: 30</p>
+                        </div>
+                        <div class="col-md-4">
+                            <div style="text-align: center; width: 100%;">
+                                <img src="/images/img_2.jpg" style="width: 150px; height: 200px; object-fit: contain;" alt="img_2">
+                            </div>
+                            <p style=" margin-top: 2rem;">
+                                <small style="color: #000;">Calle Abasolo 40, Tercera, 75880 San Gabriel Chilac, Puebla. (Confección)</small>
+                            </p>
+                        </div>
+                        <div class="col-md-4">
+                            <div style="text-align: center; width: 100%;">
+                                <img src="/images/img_3.jpg" style="width: 150px; height: 200px; object-fit: contain;" alt="img_3">
+                            </div>
+                            <p style=" margin-top: 2rem;"><small style="color: #000;">Calle Reforma 54, Segunda, 75880 San Gabriel Chilac, Puebla. (Empaque y venta)</small></p>
+                        </div>
+                    </div>
                 </div>
             </section>
 
@@ -117,7 +133,7 @@
                     En Ermy's estamos listos para ayudarte a crear prendas únicas y de calidad.<br>
                     <strong>Contáctanos hoy mismo y recibe una cotización personalizada.</strong>
                 </p>
-                <a href="mailto:contacto@ermys.com" class="ermys-btn">Escríbenos</a>
+                <a href="https://wa.me/522371144871" class="ermys-btn" target="_blank" rel="noopener">Escríbenos</a>
             </section>
         </div>
     </div>
