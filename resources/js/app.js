@@ -17,6 +17,7 @@ import productsComponent from './components/admin/pages/products/index.vue';
 import tablePaginationPersonalize from './components/global/pagination-personalize.vue';
 import puntoVenta from './components/admin/pages/punto_venta/index.vue';
 import acercaNosotros from './components/admin/pages/acerca_nosotros/index.vue';
+import landingPage from './components/landing/index.vue';
 // Init vue
 const app = createApp({
     components : {
@@ -27,7 +28,8 @@ const app = createApp({
         "dashboard-component" : dashboardComponent,
         "products-component" : productsComponent,
         "punto-venta-component" : puntoVenta,
-        "acerca-nosotros-component" : acercaNosotros
+        "acerca-nosotros-component" : acercaNosotros,
+        "landing-page-component" : landingPage
     }
 });
 app.component("table-pagination", tablePaginationPersonalize);

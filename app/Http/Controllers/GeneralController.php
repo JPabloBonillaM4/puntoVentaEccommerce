@@ -8,6 +8,10 @@ class GeneralController extends Controller
 {
     public function index()
     {
+        return view('pages.landing_page.index');
+    }
+
+    public function login() {
         return view('pages.login');
     }
 
