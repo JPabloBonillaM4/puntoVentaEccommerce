@@ -6,21 +6,21 @@
                 <div>
                     <h1>Bienvenidos a <span class="ermys-brand">Ermy's</span></h1>
                     <p class="ermys-lead">
-                        Confecciones y bordados de calidad, hechos con pasión y dedicación.<br>
-                        Más de 15 años vistiendo tus ideas.
+                        Confecciones “ERMY” es una organización dedicada a la
+                         confección de ropa artesanal, fundada en el año 2016 en San
+                         Gabriel Chilac, Pue. por Nicolás Ignacio Pacheco Aguirre, con el
+                         fin de dar a conocer la ropa típica de su lugar de origen,
+                         ofreciendo así un sustento a su familia y generar empleos.
                     </p>
                 </div>
-                <img src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=600&q=80" alt="Confecciones Ermy's" class="ermys-hero-img">
+                <img src="" alt="Confecciones Ermy's" class="ermys-hero-img">
             </section>
 
             <!-- Historia -->
             <section class="ermys-section">
                 <h2>Nuestra Historia</h2>
                 <p>
-                    Ermy's nació en el corazón de una familia apasionada por la confección y el arte textil. Desde nuestros inicios en un pequeño taller, hemos crecido gracias a la confianza de nuestros clientes y la dedicación de nuestro equipo. Hoy, Ermy's es sinónimo de calidad, creatividad y compromiso en el mundo de las confecciones y bordados personalizados.
-                </p>
-                <p>
-                    A lo largo de los años, hemos vestido a empresas, colegios, equipos deportivos y familias, siempre manteniendo la esencia artesanal y la atención al detalle que nos caracteriza.
+                   La idea de empezar con la confección de ropa fue por una tradición familiar, en donde se acostumbraba a realizar cada paso de las prendas a mano, con el paso del tiempo fue innovando, ocupando maquinaria y creando nuevos diseños dándoles más calidad y creatividad, satisfaciendo las necesidades de sus clientes. Con el paso del tiempo el sr. Ignacio fue promocionando los diseños en otros lugares, llamando la atención de varios compradores en distintos lugares de la región, esforzándose en conseguir proveedores que otorguen lo mejor. Considerándose no los 1° mejores, pero si los mejores, queriendo dejar un sello y enseñanza de que la creatividad del ser humano es el motivo y base de la superación. La empresa “Confecciones ERMY” perteneciente al sector industrial con relación al sector textil, con giro comercial y de elaboración, por lo que consideramos que es importante para todo México, por los siguientes factores: • Fuente generadora de empleo • Genera ingresos para la economía del país • Ofrece diseños completamente artesanales. • Desarrollo comercial y de industrialización. Es por ello que la empresa Confecciones Ermy es potencial para fomentar la cultura, en este caso a través de los productos artesanales, además de ser un sector que contribuye a gran parte de la sociedad al aportar ingresos directos e indirectos..
                 </p>
             </section>
 
@@ -29,51 +29,41 @@
                 <div>
                     <h3>Misión</h3>
                     <p>
-                        Ofrecer confecciones y bordados personalizados de alta calidad, superando las expectativas de nuestros clientes y contribuyendo al desarrollo de nuestra comunidad.
+                       Confecciones ERMY es una empresa especializada en elaboración y venta de textiles artesanales con una elevada calidad, para poder satisfacer las necesidades de los clientes, ofreciéndoles un excelente precio y servicio, cuidando la confección de cada producto, capacitando y motivando al equipo de trabajo, para obtener una mayor rentabilidad y posicionamiento en el mercado
                     </p>
                 </div>
                 <div>
                     <h3>Visión</h3>
                     <p>
-                        Ser la empresa líder en confecciones y bordados en la región, reconocida por su innovación, responsabilidad y excelencia en el servicio.
+                        Ser líder en la creación e innovación de ropa artesanal con productos textiles diversificados y de calidad, teniendo una alta flexibilidad permitiendo atender a un importante sector del mercado, creando grandes diseños, promoviendo siempre una oportunidad para asociarse con cualquier industria y distinguiéndonos como un lugar extraordinario para trabajar.
                     </p>
                 </div>
                 <div>
                     <h3>Valores</h3>
                     <ul>
-                        <li><strong>Calidad:</strong> Cuidamos cada detalle en cada prenda.</li>
-                        <li><strong>Compromiso:</strong> Cumplimos con nuestros clientes y colaboradores.</li>
-                        <li><strong>Innovación:</strong> Nos adaptamos a las tendencias y necesidades del mercado.</li>
-                        <li><strong>Trabajo en equipo:</strong> Nuestra fuerza está en la unión y el respeto.</li>
-                        <li><strong>Pasión:</strong> Amamos lo que hacemos.</li>
+                        <li>Calidad</li>
+                        <li>Compañerismo</li>
+                        <li>Compromiso</li>
+                        <li>Confianza</li>
+                        <li>Excelencia</li>
+                        <li>Honestidad</li>
+                        <li>Innovacion</li>
+                        <li>Respeto</li>
+                        <li>Responsabilidad</li>
+                        <li>Responsabilidad social</li>
+                        <li>Trabajo en equipo</li>
+                        <li>Pasión</li>
                     </ul>
                 </div>
             </section>
 
             <!-- Servicios -->
             <section class="ermys-section">
-                <h2>¿Qué hacemos en Ermy's?</h2>
+                <h2>Ubicacion de Ermy's</h2>
                 <div class="ermys-services">
-                    <div class="ermys-service-card">
-                        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Confección de prendas">
-                        <h4>Confección de prendas</h4>
-                        <p>Uniformes empresariales, escolares, deportivos y prendas a medida para toda ocasión.</p>
-                    </div>
-                    <div class="ermys-service-card">
-                        <img src="https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80" alt="Bordados personalizados">
-                        <h4>Bordados personalizados</h4>
-                        <p>Logos, nombres, escudos y diseños exclusivos con acabados profesionales.</p>
-                    </div>
-                    <div class="ermys-service-card">
-                        <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80" alt="Estampados">
-                        <h4>Estampados</h4>
-                        <p>Estampados en vinil, serigrafía y sublimación para prendas y accesorios.</p>
-                    </div>
-                    <div class="ermys-service-card">
-                        <img src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80" alt="Asesoría textil">
-                        <h4>Asesoría textil</h4>
-                        <p>Te ayudamos a elegir materiales, colores y diseños para tu proyecto.</p>
-                    </div>
+                        <h4>Calle Abasolo 40, Tercera, 75880 San Gabriel Chilac, Puebla. (Confección)
+                        Calle Reforma 54, Segunda, 75880 San Gabriel Chilac, Puebla. (Empaque y venta)</h4>
+                        <p>Giro comercial: Confección de ropa artesanal.Sector: La empresa “Confecciones ERMY” perteneciente al sector industrial con relación al sector textil, con giro comercial y de elaboración,.Números de trabajadores: 30</p>
                 </div>
             </section>
 
@@ -82,24 +72,24 @@
                 <h2>Nuestro Equipo</h2>
                 <div class="ermys-team">
                     <div class="ermys-team-member">
-                        <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Ermy - Fundadora">
-                        <h5>Ermy Rodríguez</h5>
-                        <span>Fundadora & Directora</span>
+                        <h5>Nicolas Ignacio Pacheco Aguirre</h5>
+                        <span>Director</span>
                     </div>
                     <div class="ermys-team-member">
-                        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Diseñador">
-                        <h5>Carlos Pérez</h5>
-                        <span>Diseñador Textil</span>
+                        <h5>Miguel Angel</h5>
+                        <span>Jefe de produccion</span>
                     </div>
                     <div class="ermys-team-member">
-                        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Bordadora">
-                        <h5>Lucía Gómez</h5>
-                        <span>Especialista en Bordados</span>
+                        <h5>Nicolas</h5>
+                        <span>Depto. de compras</span>
                     </div>
                     <div class="ermys-team-member">
-                        <img src="https://randomuser.me/api/portraits/men/43.jpg" alt="Atención al cliente">
-                        <h5>Juan Torres</h5>
-                        <span>Atención al Cliente</span>
+                        <h5>Sandra Pacheco</h5>
+                        <span>Depto. de finanzas</span>
+                    </div>
+                    <div class="ermys-team-member">
+                        <h5>Yamilet Hernandez</h5>
+                        <span>Depto. de ventas</span>
                     </div>
                 </div>
             </section>
@@ -109,16 +99,13 @@
                 <h2>Lo que dicen nuestros clientes</h2>
                 <div class="ermys-testimonials">
                     <div class="ermys-testimonial">
-                        <p>"Excelente calidad y atención. Los uniformes de mi empresa quedaron perfectos y a tiempo."</p>
-                        <span>- Ana M.</span>
+                        <p>"Encantada con mi pedido. El bordado quedó hermoso, con una gran atención al detalle y colores vibrantes. Se nota que está hecho con dedicación y talento. ¡Definitivamente volveré a pedir más productos!"</p>
                     </div>
                     <div class="ermys-testimonial">
-                        <p>"El bordado del logo superó mis expectativas. ¡Gracias Ermy's por su profesionalismo!"</p>
-                        <span>- Luis F.</span>
+                        <p>"El trabajo artesanal es impresionante. Pedí un mantel bordado para regalar y superó todas mis expectativas. La calidad es excelente y llegó justo a tiempo. Agradezco mucho la atención personalizada."</p>
                     </div>
                     <div class="ermys-testimonial">
-                        <p>"Siempre confío en Ermy's para los uniformes escolares de mis hijos. ¡Recomendados!"</p>
-                        <span>- Patricia R.</span>
+                        <p>"Simplemente hermoso. Me entregaron una blusa bordada a mano y la combinación de colores y precisión en los detalles es espectacular. Se nota el amor por el arte en cada puntada. ¡Recomendado al 100%!"</p>
                     </div>
                 </div>
             </section>
@@ -137,7 +124,7 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style scoped>
