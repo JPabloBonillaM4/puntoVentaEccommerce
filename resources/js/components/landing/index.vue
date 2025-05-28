@@ -7,6 +7,7 @@
                 <ul class="landing-navbar-links">
                     <li :class="{ active: vista === 'inicio' }" @click="vista = 'inicio'">Inicio</li>
                     <li :class="{ active: vista === 'acerca' }" @click="vista = 'acerca'">Acerca de nosotros</li>
+                    <li :class="{ active: vista === 'carrito' }" @click="vista = 'carrito'">Carrito de compras</li>
                 </ul>
             </div>
         </nav>
@@ -22,7 +23,7 @@
                         </p>
                         <!-- <a href="/punto-venta" class="landing-btn">Ir al Punto de Venta</a> -->
                     </div>
-                    <img src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=600&q=80" alt="Ermy's" class="landing-hero-img">
+                    <img src="/images/img_1.jpg" alt="Ermy's" class="landing-hero-img">
                 </section>
 
                 <!-- Productos Carousel -->
@@ -66,17 +67,23 @@
                 <section class="landing-section landing-cta">
                     <h2>¿Tienes un proyecto en mente?</h2>
                     <p>Contáctanos y recibe asesoría personalizada para confecciones y bordados únicos.</p>
-                    <a href="mailto:contacto@ermys.com" class="landing-btn landing-btn-cta">Contáctanos</a>
+                    <a href="https://wa.me/522371144871" class="landing-btn landing-btn-cta">Contáctanos</a>
                 </section>
             </div>
         </div>
-        <div v-else>
+        <div v-else-if="vista === 'acerca'">
             <acercaNosotros />
+        </div>
+        <div v-else-if="vista === 'carrito'">
+            <div class="landing-carrito-wrapper">
+                <PuntoVenta />
+            </div>
         </div>
     </div>
 </template>
 <script>
 import acercaNosotros from '../admin/pages/acerca_nosotros/index.vue';
+import PuntoVenta from '../admin/pages/punto_venta/index.vue';
 export default {
     data() {
         return {
@@ -89,7 +96,8 @@ export default {
         }
     },
     components: {
-        acercaNosotros
+        acercaNosotros,
+        PuntoVenta
     },
     computed: {
         totalSlides() {
@@ -489,5 +497,10 @@ export default {
         min-width: 90vw;
         max-width: 95vw;
     }
+}
+.landing-carrito-wrapper {
+    max-width: 1200px;
+    margin: 40px auto 0 auto;
+    padding: 0 8px 40px 8px;
 }
 </style>
